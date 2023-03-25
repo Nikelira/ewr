@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SmartLab</string>
+
+    <string name="main_pr">Пропустить</string>
+    <string name="main_an">Анализы</string>
+    <string name="main_text1">Экспресс сбор и получение проб</string>
+    <string name="main_yv">Уведомления</string>
+    <string name="main_text2">Вы быстро узнаете о результатах</string>
+    <string name="main_zav">Завершить</string>
+    <string name="main_mon">Мониторинг</string>
+    <string name="main_text3">Наши врачи всегда наблюдают\nза вашими показателями здоровья</string>
+
+    <string name="welcome_main_zag">Добро пожаловать!</string>
+    <string name="welcome_main_pod">Войдите, чтобы пользоваться функциями\nприложения</string>
+    <string name="welcome_main_vhod">Вход по E-mail</string>
+    <string name="welcome_main_tint">example@mail.ru</string>
+    <string name="welcome_main_btn1">Далее</string>
+    <string name="welcome_main_text">Или войдите с помощью</string>
+    <string name="welcome_main_btn2">Войти с Яндекс</string>
+
+</resources>
